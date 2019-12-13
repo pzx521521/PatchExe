@@ -1,0 +1,1 @@
+del *.drc;*.identcache;*.skincfg;*.res;*.local;*.map;*.~*;*.dcu;*.bak;*.scc;*.ddp;*.#*;*.rsm /s
